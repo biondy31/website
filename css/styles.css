@@ -1,0 +1,138 @@
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  width: 30%;
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #eaf6f6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.pasfoto {
+  width: 250px;
+  height: 250px;
+}
+
+.intro {
+  width: 25%;
+  margin: auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.komputer {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+hr {}
+
+.cabe {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+.bottom-container {
+  margin: 100px 0;
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: white;
+}
+
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:10px;
+	border:1px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:19px;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bio{
+  color: white;
+  font-size: 0.75rem;
+}
